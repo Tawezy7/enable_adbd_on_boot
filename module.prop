@@ -1,0 +1,6 @@
+id=myadbdmodule
+name=Enable ADBD on Boot
+version=1.0
+versionCode=1
+author=Tawezy7
+description=Automatically start adbd on boot.
