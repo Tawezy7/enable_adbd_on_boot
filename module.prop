@@ -1,4 +1,4 @@
-id=myadbdmodule
+id=autobootadb
 name=Enable ADBD on Boot
 version=1.0
 versionCode=1
